@@ -1,12 +1,6 @@
 # Ai-News-Aggregator
 An AI-powered personalized news aggregator delivering tailored news updates in real-time.
 
-# Personalized AI-Powered News Aggregator
-
-A dynamic and personalized news aggregator built using HTML, CSS, and JavaScript. This project leverages **NewsAPI** to gather real-time news updates from trusted sources and uses basic AI-powered algorithms to provide users with tailored news based on their preferences.
-
----
-
 ## Features
 - **Personalized News Feed**: Get news articles based on your interests and preferences.
 - **Real-Time News Updates**: Latest headlines from reputable sources delivered instantly.
